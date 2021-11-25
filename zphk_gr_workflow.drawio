@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T03:39:02.101Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="x5Is6ommAkzLB3yk19Nu" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T03:39:50.665Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="D5B5hCIlS64VuZ5t0WEL" version="15.7.0" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="2955" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="93" y="43" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-10" value="Goods Receipting&#xa;Team (Clerk)" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="105" width="950" height="271" as="geometry" />
+          <mxGeometry x="-24" y="51" width="950" height="384" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-2" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -0.25in&quot;&gt;&lt;span lang=&quot;ZH-TW&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;pmingliu&amp;#34; , serif&quot;&gt;列印收貨文件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-10">
           <mxGeometry x="134" y="51" width="155" height="40" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="99" y="31" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-25" value="Goods Receipting&#xa;Team (Labour)" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="456" width="950" height="180" as="geometry" />
+          <mxGeometry x="-23" y="493" width="950" height="180" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-26" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -0.25in&quot;&gt;&lt;span lang=&quot;ZH-TW&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;pmingliu&amp;#34; , serif&quot;&gt;列印收貨文件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-25">
-          <mxGeometry x="130" y="40" width="190" height="40" as="geometry" />
+          <mxGeometry x="184" y="39" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-31" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#9933FF;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-27">
           <mxGeometry relative="1" as="geometry">
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-36" value="Putaway Team" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="685" width="950" height="180" as="geometry" />
+          <mxGeometry x="-23" y="745" width="950" height="180" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-37" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -0.25in&quot;&gt;&lt;span lang=&quot;ZH-TW&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;pmingliu&amp;#34; , serif&quot;&gt;列印收貨文件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-36">
           <mxGeometry x="130" y="40" width="190" height="40" as="geometry" />
