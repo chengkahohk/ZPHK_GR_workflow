@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T07:16:05.910Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vwNRUqj7hUbL1F2AJYKj" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T07:21:43.078Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Z1iwOz54Ax7A0vOzaIU2" version="15.8.6" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="2058" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2879" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,8 +156,28 @@
         <mxCell id="0sDIGlY-5JGgi3CpzUVk-50" value="上載 COA 文件" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-620" y="-740" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0sDIGlY-5JGgi3CpzUVk-56" value="" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-64" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="-626" as="sourcePoint" />
+            <mxPoint x="-360" y="-626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-56" value="遂個Product&lt;br&gt;檢查UOM" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-270" y="-640" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0sDIGlY-5JGgi3CpzUVk-63" target="0sDIGlY-5JGgi3CpzUVk-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="-580" />
+              <mxPoint x="-230" y="-580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-63" value="SAP EWM&lt;br&gt;/SCWM/MAT1" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-637" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-65" value="UOM&lt;br&gt;是否正確" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
