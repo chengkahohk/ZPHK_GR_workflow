@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T03:39:50.665Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="D5B5hCIlS64VuZ5t0WEL" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T04:31:47.684Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8lOnVG4YW5Pxw8cPMgYU" version="15.7.0" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="2955" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="1674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,34 +8,64 @@
           <mxGeometry x="-23" y="-564" width="940" height="140" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-27" value="Shipping Document" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-9">
-          <mxGeometry x="93" y="43" width="190" height="60" as="geometry" />
+          <mxGeometry x="86" y="43" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-10" value="Goods Receipting&#xa;Team (Clerk)" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="51" width="950" height="384" as="geometry" />
+          <mxGeometry x="-36" y="53" width="1281" height="678" as="geometry" />
         </mxCell>
-        <mxCell id="51Y_JJE3WGSCX0czTKx8-2" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -0.25in&quot;&gt;&lt;span lang=&quot;ZH-TW&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;pmingliu&amp;#34; , serif&quot;&gt;列印收貨文件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-10">
-          <mxGeometry x="134" y="51" width="155" height="40" as="geometry" />
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-44" value="Check whether have COA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-10">
+          <mxGeometry x="188" y="150" width="232" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-50" value="Check COA" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#7EA6E0;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-10">
+          <mxGeometry x="188" y="58" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-65" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;strokeColor=#9933FF;" edge="1" parent="51Y_JJE3WGSCX0czTKx8-10" source="51Y_JJE3WGSCX0czTKx8-50" target="51Y_JJE3WGSCX0czTKx8-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="138" as="sourcePoint" />
+            <mxPoint x="347" y="88" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-12" value="System" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-160" width="950" height="140" as="geometry" />
+          <mxGeometry x="-31" y="-158" width="1287" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="51Y_JJE3WGSCX0czTKx8-14" value="eZConnect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-12">
-          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-14" value="eZConnect&lt;br&gt;(part of principal)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-12">
+          <mxGeometry x="47" y="50" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-15" value="email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-12">
-          <mxGeometry x="210" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="232" y="50" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-52" value="COA website" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-12">
+          <mxGeometry x="399" y="46" width="120" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-54" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;direction=north;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-12">
+          <mxGeometry x="168" y="110" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;sketch=0;strokeColor=#9933FF;" edge="1" parent="51Y_JJE3WGSCX0czTKx8-12" source="51Y_JJE3WGSCX0czTKx8-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="152.5" as="sourcePoint" />
+            <mxPoint x="427" y="102.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-68" value="email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-12">
+          <mxGeometry x="550" y="46" width="124" height="56" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-23" value="Principal Service&#xa;Team" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=55;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="-372" width="993" height="172" as="geometry" />
+          <mxGeometry x="-31" y="-379" width="1262" height="172" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-30" value="Packing List for Devanning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-23">
           <mxGeometry x="99" y="31" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51Y_JJE3WGSCX0czTKx8-25" value="Goods Receipting&#xa;Team (Labour)" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="493" width="950" height="180" as="geometry" />
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-66" value="Upload COA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-23">
+          <mxGeometry x="537" y="39" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51Y_JJE3WGSCX0czTKx8-26" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -0.25in&quot;&gt;&lt;span lang=&quot;ZH-TW&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;pmingliu&amp;#34; , serif&quot;&gt;列印收貨文件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-25">
-          <mxGeometry x="184" y="39" width="190" height="40" as="geometry" />
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;sketch=0;strokeColor=#9933FF;" edge="1" parent="51Y_JJE3WGSCX0czTKx8-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="601" y="264" as="sourcePoint" />
+            <mxPoint x="601" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-25" value="Goods Receipting&#xa;Team (Labour)" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="769" width="950" height="180" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-31" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#9933FF;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-27">
           <mxGeometry relative="1" as="geometry">
@@ -48,19 +78,24 @@
         <mxCell id="51Y_JJE3WGSCX0czTKx8-33" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#9933FF;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-30" target="51Y_JJE3WGSCX0czTKx8-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="51Y_JJE3WGSCX0czTKx8-34" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.353;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;strokeColor=#9933FF;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-14" target="51Y_JJE3WGSCX0czTKx8-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="51Y_JJE3WGSCX0czTKx8-35" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#9933FF;entryX=0.594;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-15" target="51Y_JJE3WGSCX0czTKx8-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="192" y="59" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-36" value="Putaway Team" style="swimlane;horizontal=0;fontSize=18;strokeColor=#7EA6E0;startSize=45;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="745" width="950" height="180" as="geometry" />
+          <mxGeometry x="-24" y="1209" width="950" height="180" as="geometry" />
         </mxCell>
         <mxCell id="51Y_JJE3WGSCX0czTKx8-37" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -0.25in&quot;&gt;&lt;span lang=&quot;ZH-TW&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;pmingliu&amp;#34; , serif&quot;&gt;列印收貨文件&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="51Y_JJE3WGSCX0czTKx8-36">
           <mxGeometry x="130" y="40" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-58" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#9933FF;entryX=0.298;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-54" target="51Y_JJE3WGSCX0czTKx8-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.176;entryY=1.138;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;strokeColor=#9933FF;" edge="1" parent="1" source="51Y_JJE3WGSCX0czTKx8-44" target="51Y_JJE3WGSCX0czTKx8-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51Y_JJE3WGSCX0czTKx8-96" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="51Y_JJE3WGSCX0czTKx8-95">
+          <mxGeometry x="-0.4337" relative="1" as="geometry">
+            <mxPoint x="-124" y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
