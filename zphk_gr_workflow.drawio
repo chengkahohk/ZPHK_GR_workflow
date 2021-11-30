@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T02:29:26.567Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QIETHYf2vCOw6onxuyuV" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T02:42:04.151Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_APD6xvV0t0GbLVCsfFx" version="15.8.7" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="1413" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2586" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,16 +163,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="0sDIGlY-5JGgi3CpzUVk-56" target="0sDIGlY-5JGgi3CpzUVk-90">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-230" y="-530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XXsCVbEEHnOgJnBoPXKC-62" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XXsCVbEEHnOgJnBoPXKC-61">
-          <mxGeometry x="-0.5045" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0sDIGlY-5JGgi3CpzUVk-56" value="檢查文件&lt;br&gt;有無 IBD" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-270" y="-640" width="80" height="46" as="geometry" />
@@ -692,13 +683,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-127" value="列印&lt;br&gt;carton label" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-276.87" y="1210" width="83.44" height="45" as="geometry" />
+          <mxGeometry x="-281.72" y="1140" width="83.44" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-134" value="SAP EWM&lt;br&gt;/SCWM/MAT1" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-448.2" y="867.5" width="97.66" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-135" value="SAP EWM&lt;br&gt;ZREPRINT" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-452.49999999999994" y="1210" width="80" height="45" as="geometry" />
+          <mxGeometry x="-452.49999999999994" y="1140" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-141" value="Shipping" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="1340" width="100" height="40" as="geometry" />
@@ -778,7 +769,7 @@
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-40" target="XXsCVbEEHnOgJnBoPXKC-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XXsCVbEEHnOgJnBoPXKC-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-40" target="XXsCVbEEHnOgJnBoPXKC-56">
+        <mxCell id="XXsCVbEEHnOgJnBoPXKC-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.62;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-40" target="4b1m9ikiccHRpkiheYTt-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-40" value="入數及&lt;br&gt;完成GR" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
@@ -788,13 +779,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-50" value="&lt;div&gt;分開每板carton label數量&lt;/div&gt;&lt;div&gt;及&lt;/div&gt;&lt;div&gt;在背面寫上location&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="1280" width="140" height="60" as="geometry" />
+          <mxGeometry x="-310" y="1220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-54" value="Gimmick" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="823.87" y="1340" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XXsCVbEEHnOgJnBoPXKC-56" value="檢查文件Release form跟P/L內容是否相符? (錯… 要致電Chi Ki叫他出email跟進)" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-274.995" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
