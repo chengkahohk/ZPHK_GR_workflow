@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T02:05:17.489Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="cQMFlGvsav9jYhgU52Su" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T02:08:48.470Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="AhfIxXiWxs0XxzxNIdY9" version="15.8.7" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="1853" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -666,13 +666,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-125" value="遂個 Product 檢查箱頭數量" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-282.73" y="850" width="91.72" height="52.5" as="geometry" />
+          <mxGeometry x="-283.37" y="840" width="91.72" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-137" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#314354;elbow=vertical;" parent="1" source="4b1m9ikiccHRpkiheYTt-127" target="4b1m9ikiccHRpkiheYTt-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XXsCVbEEHnOgJnBoPXKC-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="4b1m9ikiccHRpkiheYTt-127" target="XXsCVbEEHnOgJnBoPXKC-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-127" value="列印&lt;br&gt;carton label" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-280.95" y="1110" width="83.44" height="45" as="geometry" />
+          <mxGeometry x="-282.51" y="1087" width="83.44" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-134" value="SAP EWM&lt;br&gt;/SCWM/MAT1" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-448.2" y="867.5" width="97.66" height="45" as="geometry" />
@@ -681,7 +684,7 @@
           <mxGeometry x="-444.05999999999995" y="1110" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-141" value="Shipping" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="-761.87" y="1160" width="100" height="40" as="geometry" />
+          <mxGeometry x="-766.87" y="1230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-142" value="GR 寫字樓" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-288.44" y="1230" width="100" height="40" as="geometry" />
@@ -726,7 +729,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-1" value="&lt;span&gt;跟實貨&lt;br&gt;是否相同?&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-282.51" y="920" width="90" height="80" as="geometry" />
+          <mxGeometry x="-282.51" y="912.5" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-9" value="SAP EWM&lt;br&gt;/SCWM/PRDI" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-450.94" y="1037.5" width="90" height="45" as="geometry" />
@@ -765,7 +768,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-40" value="入數" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1040" width="82.49" height="40" as="geometry" />
+          <mxGeometry x="-280" y="1020" width="82.49" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XXsCVbEEHnOgJnBoPXKC-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-50" target="4b1m9ikiccHRpkiheYTt-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXsCVbEEHnOgJnBoPXKC-50" value="&lt;div&gt;分開每板carton label數量&lt;/div&gt;&lt;div&gt;及&lt;/div&gt;&lt;div&gt;在背面寫上location&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-307.5" y="1160" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
