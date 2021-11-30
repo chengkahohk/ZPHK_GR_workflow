@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T06:39:11.713Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="a_OLdUew0raJt0R2NGq4" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T06:40:33.539Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xo8Hvux-lT7Tx9W_r_ug" version="15.8.7" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1927" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4b1m9ikiccHRpkiheYTt-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=#E6FFF2;strokeWidth=2;strokeColor=#006600;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="-1160" width="160" height="2560" as="geometry" />
+        </mxCell>
         <mxCell id="xCn-x0LdSq2mbBBxVJVO-2" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=#E6FFCC;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-1160" width="160" height="2560" as="geometry" />
         </mxCell>
@@ -415,9 +418,6 @@
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-11" value="Quarantine" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="-1160" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4b1m9ikiccHRpkiheYTt-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;strokeWidth=2;strokeColor=#006600;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="-1160" width="160" height="2560" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-13" value="包裝部" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="33.129999999999995" y="-1160" width="100" height="40" as="geometry" />
