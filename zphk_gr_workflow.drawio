@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T02:02:14.243Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="j43kv0TO8iX5y8lz80JZ" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T02:05:17.489Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="cQMFlGvsav9jYhgU52Su" version="15.8.7" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="2275" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0sDIGlY-5JGgi3CpzUVk-78" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0sDIGlY-5JGgi3CpzUVk-68" target="0sDIGlY-5JGgi3CpzUVk-75" edge="1">
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-78" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0sDIGlY-5JGgi3CpzUVk-68" target="0sDIGlY-5JGgi3CpzUVk-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0sDIGlY-5JGgi3CpzUVk-68" value="檢查貨倉庫存&lt;br&gt;SAP EWM" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
@@ -577,7 +577,7 @@
         <mxCell id="4b1m9ikiccHRpkiheYTt-86" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;strokeColor=#EA6B66;" parent="1" source="4b1m9ikiccHRpkiheYTt-75" target="4b1m9ikiccHRpkiheYTt-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-402" y="793" />
+              <mxPoint x="-402" y="780" />
               <mxPoint x="230" y="783" />
             </Array>
           </mxGeometry>
@@ -586,7 +586,7 @@
           <mxGeometry x="-442.34" y="689.9999999999999" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-78" value="接收 Carton Label 及 貼上" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="770" width="80" height="45" as="geometry" />
+          <mxGeometry x="840" y="760" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-84" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4b1m9ikiccHRpkiheYTt-82" target="4b1m9ikiccHRpkiheYTt-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -628,7 +628,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-101" value="收到通知" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="720" width="85" height="40" as="geometry" />
+          <mxGeometry x="1323.43" y="720" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-106" value="來貨是&lt;br&gt;2-8度雪貨?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-141.87" y="1290" width="120" height="80" as="geometry" />
@@ -649,7 +649,7 @@
           <mxGeometry x="1328.05" y="970" width="83.44" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-116" value="接收 Carton Label 及 貼上" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1327.5" y="1150" width="80" height="45" as="geometry" />
+          <mxGeometry x="1328.43" y="1115" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-120" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#314354;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4b1m9ikiccHRpkiheYTt-108" target="4b1m9ikiccHRpkiheYTt-114" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -756,7 +756,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-32" value="確認箱頭數量" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1329.37" y="1055" width="80.79" height="47" as="geometry" />
+          <mxGeometry x="1330.6999999999998" y="1040" width="80.79" height="47" as="geometry" />
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-40" target="4b1m9ikiccHRpkiheYTt-127">
           <mxGeometry relative="1" as="geometry" />
