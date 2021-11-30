@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T02:42:04.151Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_APD6xvV0t0GbLVCsfFx" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T02:53:21.185Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NZ9KQzvf84g5MIn6w5rE" version="15.8.7" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="2586" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3289" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,8 +775,13 @@
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-40" value="入數及&lt;br&gt;完成GR" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-284.06" y="1037.5" width="94.99" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="XXsCVbEEHnOgJnBoPXKC-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#6600CC;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-50" target="4b1m9ikiccHRpkiheYTt-116">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XXsCVbEEHnOgJnBoPXKC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#6600CC;curved=1;" edge="1" parent="1" source="XXsCVbEEHnOgJnBoPXKC-50" target="4b1m9ikiccHRpkiheYTt-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1250" />
+              <mxPoint x="690" y="1138" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-50" value="&lt;div&gt;分開每板carton label數量&lt;/div&gt;&lt;div&gt;及&lt;/div&gt;&lt;div&gt;在背面寫上location&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1220" width="140" height="60" as="geometry" />
