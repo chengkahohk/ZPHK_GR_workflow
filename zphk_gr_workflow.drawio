@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T03:53:40.833Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="qu6jw_JVuDnvI1e03Y0x" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T05:04:19.668Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="qQqt19NZk1gVeOOqYGsh" version="15.8.8" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="2303" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2082" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -996,6 +996,9 @@
         <mxCell id="mWjOr9oIFl4kfRmIek1W-34" value="是否&lt;br&gt;貴價貨 或&lt;br&gt;特定貨品?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-130" y="2030" width="110" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="mWjOr9oIFl4kfRmIek1W-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="mWjOr9oIFl4kfRmIek1W-38" target="mWjOr9oIFl4kfRmIek1W-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-38" value="按 SOP &lt;br&gt;開箱檢查" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-70" y="2150" width="60.03" height="40" as="geometry" />
         </mxCell>
@@ -1005,8 +1008,8 @@
         <mxCell id="mWjOr9oIFl4kfRmIek1W-41" value="&lt;span&gt;100%&lt;/span&gt;&lt;span&gt;開箱&lt;br&gt;遂粒檢查&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-140" y="2150" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mWjOr9oIFl4kfRmIek1W-45" value="&lt;span&gt;100%&lt;/span&gt;&lt;span&gt;開箱&lt;br&gt;遂粒檢查&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-117.97" y="2240" width="65" height="40" as="geometry" />
+        <mxCell id="mWjOr9oIFl4kfRmIek1W-45" value="按停&lt;br&gt;電子溫度計&lt;br&gt;裝置" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-117.97" y="2240" width="77.97" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
