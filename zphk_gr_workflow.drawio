@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T04:07:50.116Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="K1FXl9LRo8slUJHOdQut" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T04:12:38.695Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="b1rbqYjtvSqgL58xLUG8" version="15.9.1" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="1534" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -977,6 +977,9 @@
         <mxCell id="mWjOr9oIFl4kfRmIek1W-27" value="過板開箱" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-117.97" y="1880" width="82.2" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="n98nqfeLrBj82-TLXrYQ-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mWjOr9oIFl4kfRmIek1W-30" target="mWjOr9oIFl4kfRmIek1W-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-30" value="搜尋箱內的&lt;br&gt;TempTale" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-117.97" y="1950" width="82.2" height="50" as="geometry" />
         </mxCell>
@@ -997,7 +1000,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-34" value="是否&lt;br&gt;貴價貨 或&lt;br&gt;特定貨品?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-134.01" y="2130" width="110" height="90" as="geometry" />
+          <mxGeometry x="-130.85" y="2110" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-38" value="按 SOP &lt;br&gt;開箱檢查" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-74.01" y="2250" width="60.03" height="40" as="geometry" />
@@ -1011,17 +1014,11 @@
         <mxCell id="mWjOr9oIFl4kfRmIek1W-53" value="有否&lt;br&gt;TempTale?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-615" y="1789.5" width="87.5" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="mWjOr9oIFl4kfRmIek1W-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" parent="1" source="mWjOr9oIFl4kfRmIek1W-56" target="mWjOr9oIFl4kfRmIek1W-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-56" value="在貨箱上&lt;br&gt;寫上以板&lt;br&gt;為單位的代號" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-131.87" y="2310" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mWjOr9oIFl4kfRmIek1W-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.505;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mWjOr9oIFl4kfRmIek1W-58" target="mWjOr9oIFl4kfRmIek1W-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-126.86999999999999" y="2540" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-58" value="在TempTale上&lt;br&gt;寫上該&lt;br&gt;板貨的代號" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-128.99" y="2390" width="100" height="50" as="geometry" />
+          <mxGeometry x="-131.87" y="2620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" parent="1" source="mWjOr9oIFl4kfRmIek1W-63" target="mWjOr9oIFl4kfRmIek1W-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1040,13 +1037,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-63" value="TempTale&lt;br&gt;是否出現&lt;br&gt;溫度異常警示" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-145" y="2460" width="130" height="110" as="geometry" />
+          <mxGeometry x="-140" y="2320" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-70" value="分板擺貨" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-151.87" y="2610" width="61.87" height="40" as="geometry" />
+          <mxGeometry x="-145" y="2470" width="61.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n98nqfeLrBj82-TLXrYQ-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-78.99" y="2610" width="68.99" height="40" as="geometry" />
+          <mxGeometry x="-74.00999999999999" y="2470" width="68.99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n98nqfeLrBj82-TLXrYQ-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.489;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWjOr9oIFl4kfRmIek1W-45" target="mWjOr9oIFl4kfRmIek1W-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="2100" as="sourcePoint" />
+            <mxPoint x="-100" y="2050" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
