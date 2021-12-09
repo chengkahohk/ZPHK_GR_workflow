@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T05:39:17.021Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="92TqPakW7PxVfOndBeVk" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T05:56:37.052Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YpXmGZ2Lgl_u1MMxYj_Y" version="15.9.4" type="github">
   <diagram id="bB7Jo88Dkk5dAmgTvR2b" name="Page-1">
-    <mxGraphModel dx="368" dy="180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="242" dy="76" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="x7hon7UcezSNEN2OE0OE-10" value="哪一個是最正確?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7hon7UcezSNEN2OE0OE-14" value="$$-\mathcal{x^2}-2&lt;br&gt;\mathcal{&lt;br&gt;x}+(6\mathcal{&lt;br&gt;x}^2\div3)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
