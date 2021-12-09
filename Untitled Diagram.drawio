@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T06:08:21.499Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="yYKTF3mj392ZmgauSL0Q" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T06:25:25.629Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="99FMAkehys6ZI1brFm37" version="15.9.4" type="github">
   <diagram id="bB7Jo88Dkk5dAmgTvR2b" name="Page-1">
-    <mxGraphModel dx="415" dy="131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1395" dy="131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="x7hon7UcezSNEN2OE0OE-14" value="$$-\mathcal{x^2}-2&lt;br&gt;\mathcal{&lt;br&gt;x}+(6\mathcal{&lt;br&gt;x}^2\div3)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x7hon7UcezSNEN2OE0OE-15" value="$$[(\frac{&lt;br&gt;\mathcal{x}-7}{11}) + \mathcal{x}]*3=273$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="455" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7hon7UcezSNEN2OE0OE-16" value="$$\mathcal{x=} ?$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="490" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
