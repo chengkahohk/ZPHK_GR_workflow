@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T07:35:20.599Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="MnXUGkgpXzgfBLBbDUdJ" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T07:35:52.658Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="CMpiSvo9nam2jxkgBMuN" version="15.9.4" type="github">
   <diagram id="bB7Jo88Dkk5dAmgTvR2b" name="Page-1">
     <mxGraphModel dx="402" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="#ffffff" math="1" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="x7hon7UcezSNEN2OE0OE-15" value="$$\lgroup(\frac{&lt;br&gt;\mathcal{x}-7}{11}) + \mathcal{x}\rgroup*3=273\\&lt;br&gt;\mathcal{x}= ?$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="25" y="445" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x7hon7UcezSNEN2OE0OE-18" value="$$&lt;br&gt;\begin{equation}\begin{split}&lt;br&gt;\lgroup(\frac{&lt;br&gt;\mathcal{L}-4}{3}) + \mathcal{L}\rgroup*2=104\\&lt;br&gt;\lgroup(\frac{&lt;br&gt;\mathcal{L}-4}{3}) + \mathcal{L}\rgroup*2\div2=104\div2\\&lt;br&gt;(\frac{&lt;br&gt;\mathcal{L}-4}{3}) + \mathcal{L}=52\\&lt;br&gt;\end{split}\end{equation}&lt;br&gt;&lt;br&gt;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="x7hon7UcezSNEN2OE0OE-18" value="$$&lt;br&gt;\begin{equation}&lt;br&gt;\lgroup(\frac{&lt;br&gt;\mathcal{L}-4}{3}) + \mathcal{L}\rgroup*2=104\\&lt;br&gt;\lgroup(\frac{&lt;br&gt;\mathcal{L}-4}{3}) + \mathcal{L}\rgroup*2\div2=104\div2\\&lt;br&gt;(\frac{&lt;br&gt;\mathcal{L}-4}{3}) + \mathcal{L}=52\\&lt;br&gt;\end{equation}&lt;br&gt;&lt;br&gt;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675" y="-15" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
