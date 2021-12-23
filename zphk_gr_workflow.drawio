@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T09:44:43.162Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="IL5PsiGVVqjjTxwj1AfT" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T09:45:25.554Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9e2euUxnITMmKo5CbXis" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1540" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-47" value="Principal &lt;br&gt;已安裝的&lt;br&gt;指定軟件&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-462.44" y="2430" width="100.63" height="69" as="geometry" />
+          <mxGeometry x="-455.31" y="2430" width="100.63" height="69" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-50" value="通知 PS" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-292.79" y="2522" width="74.41" height="40" as="geometry" />
@@ -881,6 +881,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-270" y="2550" as="sourcePoint" />
             <mxPoint x="-220" y="2500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="2680" />
+              <mxPoint x="-180" y="2471" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
