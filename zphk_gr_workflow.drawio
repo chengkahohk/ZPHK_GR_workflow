@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T09:01:36.536Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0bV9cf-c5d3hwes1JaY0" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T09:09:02.663Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xfEzVGa2PyRpp62fr0Bo" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1835" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,12 +401,6 @@
         <mxCell id="4b1m9ikiccHRpkiheYTt-64" value="SAP ECC MM02&lt;br&gt;&amp;amp;&lt;br&gt;SAP EWM&lt;br&gt;Packspec&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-450" y="1224.99" width="83.44" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="9vsrs8CR2xWLtp_Od_7o-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;elbow=vertical;" parent="1" source="4b1m9ikiccHRpkiheYTt-127" target="9vsrs8CR2xWLtp_Od_7o-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4b1m9ikiccHRpkiheYTt-127" value="列印&lt;br&gt;carton label" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-290.25" y="3105.0000000000005" width="83.44" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-141" value="Shipping" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="1400" width="100" height="40" as="geometry" />
         </mxCell>
@@ -440,8 +434,10 @@
         <mxCell id="XXsCVbEEHnOgJnBoPXKC-40" value="入數及&lt;br&gt;完成GR" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-292.59000000000003" y="2912.5000000000005" width="94.99" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="9vsrs8CR2xWLtp_Od_7o-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;exitX=0.499;exitY=0.959;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9vsrs8CR2xWLtp_Od_7o-18" target="4b1m9ikiccHRpkiheYTt-127" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9vsrs8CR2xWLtp_Od_7o-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;exitX=0.499;exitY=0.959;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9vsrs8CR2xWLtp_Od_7o-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-245.52648" y="3120.585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9vsrs8CR2xWLtp_Od_7o-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9vsrs8CR2xWLtp_Od_7o-21" vertex="1" connectable="0">
           <mxGeometry x="-0.621" y="1" relative="1" as="geometry">
@@ -467,10 +463,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9vsrs8CR2xWLtp_Od_7o-23" value="Repackaging Requisition Form" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-466" y="2980" width="104.99" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9vsrs8CR2xWLtp_Od_7o-42" value="SAP EWM&lt;br&gt;ZREPRINT" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-453.53" y="3105.0000000000005" width="90" height="45" as="geometry" />
+          <mxGeometry x="-468.52" y="2991.5" width="104.99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCn-x0LdSq2mbBBxVJVO-3" value="登記車牌&lt;br&gt;及&lt;br&gt;收泊位費" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-283.36" y="167.5" width="80" height="62.5" as="geometry" />
@@ -574,11 +567,11 @@
         <mxCell id="mWjOr9oIFl4kfRmIek1W-53" value="有否&lt;br&gt;TempTale?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-605.01" y="1039.5" width="87.5" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="10joTakosDb7csEgFEXi-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7F00FF;" parent="1" source="mWjOr9oIFl4kfRmIek1W-56" target="mWjOr9oIFl4kfRmIek1W-58" edge="1">
+        <mxCell id="10joTakosDb7csEgFEXi-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7F00FF;" parent="1" source="mWjOr9oIFl4kfRmIek1W-56" target="mWjOr9oIFl4kfRmIek1W-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-56" value="在貨箱上&lt;br&gt;寫上以板&lt;br&gt;為單位的代號" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-136.87" y="2060" width="100" height="50" as="geometry" />
+          <mxGeometry x="-136.87" y="2050" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="10joTakosDb7csEgFEXi-76" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7F00FF;" parent="1" source="mWjOr9oIFl4kfRmIek1W-58" target="10joTakosDb7csEgFEXi-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -747,8 +740,8 @@
         <mxCell id="10joTakosDb7csEgFEXi-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7F00FF;" parent="1" source="10joTakosDb7csEgFEXi-75" target="10joTakosDb7csEgFEXi-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="10joTakosDb7csEgFEXi-75" value="核對文件內容&lt;br&gt;及實貨：&lt;br&gt;Description,&lt;br&gt;Expiration,&lt;br&gt;Batch,&lt;br&gt;Quantity" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-144.05" y="2210" width="120" height="105" as="geometry" />
+        <mxCell id="10joTakosDb7csEgFEXi-75" value="核對文件內容&lt;br&gt;及實貨：&lt;br&gt;Description,&lt;br&gt;Expiration,&lt;br&gt;Batch, Quantity" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-146.87" y="2210" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="B6LUpJDBMQVNPhAsn9sS-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="10joTakosDb7csEgFEXi-79" target="B6LUpJDBMQVNPhAsn9sS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -856,6 +849,9 @@
             <mxPoint x="-230" y="2510" as="sourcePoint" />
             <mxPoint x="-180" y="2460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k30M70qhMYFnIltZ5wiN-39" value="等待通知放行" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-294.05" y="3110.0000000000005" width="94.99" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
