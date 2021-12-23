@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T02:05:24.445Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kbOYW2Ri26bvFb7k0eI_" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T02:39:34.813Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QkAoo8zhGUvUNIF1NvWs" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="1539" dy="1446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,14 +751,14 @@
         <mxCell id="10joTakosDb7csEgFEXi-75" value="核對文件內容&lt;br&gt;及實貨：&lt;br&gt;Description,&lt;br&gt;Expiration,&lt;br&gt;Batch,&lt;br&gt;Quantity" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-145.83" y="2275" width="120" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="B6LUpJDBMQVNPhAsn9sS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10joTakosDb7csEgFEXi-79" target="B6LUpJDBMQVNPhAsn9sS-1">
+        <mxCell id="B6LUpJDBMQVNPhAsn9sS-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10joTakosDb7csEgFEXi-79" target="B6LUpJDBMQVNPhAsn9sS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="10joTakosDb7csEgFEXi-79" value="按 Product, Batch, HU 分板砌貨" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-145.83" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B6LUpJDBMQVNPhAsn9sS-1" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-145.83" y="2530" width="120" height="60" as="geometry" />
+        <mxCell id="B6LUpJDBMQVNPhAsn9sS-1" value="更正或填寫資料&lt;br&gt;在 Packing List" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="2530" width="114.17" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B6LUpJDBMQVNPhAsn9sS-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6LUpJDBMQVNPhAsn9sS-3" target="B6LUpJDBMQVNPhAsn9sS-5">
           <mxGeometry relative="1" as="geometry" />
