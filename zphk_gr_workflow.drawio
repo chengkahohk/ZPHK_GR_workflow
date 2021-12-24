@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T03:44:19.624Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="NrJPEVDo_5812aHA4d9s" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T03:50:46.774Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="IW1DtePy7fCdYjbiOBwI" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="2216" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -794,10 +794,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-12" value="來貨缺損&lt;br&gt;或&lt;br&gt;溫度記錄異常" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-126.87" y="2950" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAP92UuIrIzknXgb895-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;" edge="1" parent="1" source="k30M70qhMYFnIltZ5wiN-15" target="wtAP92UuIrIzknXgb895-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-126.88" y="2950" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-15" value="填寫&lt;br&gt;問題記錄表&lt;br&gt;Deviation Report" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-128.85999999999999" y="3176" width="101.42" height="56.25" as="geometry" />
@@ -811,14 +808,14 @@
             <mxPoint x="-199.03" y="3022" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k30M70qhMYFnIltZ5wiN-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="k30M70qhMYFnIltZ5wiN-24" target="k30M70qhMYFnIltZ5wiN-29" edge="1">
+        <mxCell id="wtAP92UuIrIzknXgb895-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;" edge="1" parent="1" source="k30M70qhMYFnIltZ5wiN-24" target="wtAP92UuIrIzknXgb895-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-24" value="檢查所有文件&lt;br&gt;WG, PL, &lt;br&gt;GRD(如有)" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-292.79" y="2972" width="86.54" height="60" as="geometry" />
+          <mxGeometry x="-292.5" y="2960" width="86.54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-29" value="更改修正&lt;br&gt;Batch &amp;amp; Expiration" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-309.03000000000003" y="3082" width="120" height="60" as="geometry" />
+          <mxGeometry x="-313.36" y="3113" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#9933FF;" parent="1" source="k30M70qhMYFnIltZ5wiN-29" target="XXsCVbEEHnOgJnBoPXKC-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -990,11 +987,24 @@
             <mxPoint x="-210" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAP92UuIrIzknXgb895-45" value="&lt;span&gt;接收&lt;br&gt;問題記錄表&lt;/span&gt;&lt;br&gt;&lt;span&gt;Deviation Report&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="353" y="2984.13" width="107" height="85.87" as="geometry" />
+        <mxCell id="wtAP92UuIrIzknXgb895-45" value="&lt;span&gt;接收所有文件&lt;br&gt;包括&lt;br&gt;&lt;/span&gt;收貨檢查表&lt;br&gt;&lt;span&gt;Deviation Report&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3060" width="117" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-47" value="貨櫃&lt;br&gt;Seal 號碼不符" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-128.86" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-50" value="整合所有文件" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-294.13" y="3040" width="90.48" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-52" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#9933FF;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="wtAP92UuIrIzknXgb895-50" target="wtAP92UuIrIzknXgb895-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="3160" as="sourcePoint" />
+            <mxPoint x="-70" y="3110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="3060" />
+              <mxPoint x="-110" y="3100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
