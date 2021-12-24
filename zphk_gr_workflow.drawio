@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T02:32:26.559Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Zb17n37m4xe2iyJYwODi" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T03:02:13.889Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Eu-o9r4OO5VYT8pM5tFO" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1656" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,8 +306,10 @@
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-23" value="SAP EWM&lt;br&gt;/SCWM/PRDI" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-447.55" y="-200" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-dL7hMxCjh7UT4JnPMMj-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="-dL7hMxCjh7UT4JnPMMj-37" target="-dL7hMxCjh7UT4JnPMMj-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-dL7hMxCjh7UT4JnPMMj-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="-dL7hMxCjh7UT4JnPMMj-37" target="xCn-x0LdSq2mbBBxVJVO-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-205" y="198.75000000000023" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-63" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="-dL7hMxCjh7UT4JnPMMj-37" target="-dL7hMxCjh7UT4JnPMMj-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -315,20 +317,13 @@
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-37" value="到貨" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#CCFF99;" parent="1" vertex="1">
           <mxGeometry x="-135" y="173.75" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-dL7hMxCjh7UT4JnPMMj-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="-dL7hMxCjh7UT4JnPMMj-47" target="-dL7hMxCjh7UT4JnPMMj-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-dL7hMxCjh7UT4JnPMMj-47" value="登記車牌&lt;br&gt;及&lt;br&gt;收泊位費" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-285" y="167.5" width="80" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-dL7hMxCjh7UT4JnPMMj-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="-dL7hMxCjh7UT4JnPMMj-49" target="-dL7hMxCjh7UT4JnPMMj-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-dL7hMxCjh7UT4JnPMMj-49" value="Scan Barcode 紙" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-295" y="270" width="100" height="52.5" as="geometry" />
+        <mxCell id="-dL7hMxCjh7UT4JnPMMj-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xCn-x0LdSq2mbBBxVJVO-4" target="-dL7hMxCjh7UT4JnPMMj-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-295" y="296.2500000000002" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-53" value="eZconnect" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-447.5" y="275.31" width="90" height="41.88" as="geometry" />
+          <mxGeometry x="-447.5" y="430" width="90" height="41.88" as="geometry" />
         </mxCell>
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-55" value="Shipping" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-766.87" y="100" width="100" height="40" as="geometry" />
@@ -473,11 +468,14 @@
         <mxCell id="9vsrs8CR2xWLtp_Od_7o-23" value="Repackaging Requisition Form" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-468.08" y="3083.5" width="104.99" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xCn-x0LdSq2mbBBxVJVO-3" value="登記車牌&lt;br&gt;及&lt;br&gt;收泊位費" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-283.36" y="167.5" width="80" height="62.5" as="geometry" />
+        <mxCell id="wtAP92UuIrIzknXgb895-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;" edge="1" parent="1" source="xCn-x0LdSq2mbBBxVJVO-3" target="wtAP92UuIrIzknXgb895-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xCn-x0LdSq2mbBBxVJVO-3" value="登記&lt;br&gt;送貨貨車登記表" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-290.77" y="161.25" width="96.64" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="xCn-x0LdSq2mbBBxVJVO-4" value="Scan Barcode 紙" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-293.36" y="270" width="100" height="52.5" as="geometry" />
+          <mxGeometry x="-294.13" y="423.75" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="10joTakosDb7csEgFEXi-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7F00FF;entryX=0.5;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mWjOr9oIFl4kfRmIek1W-2" target="10joTakosDb7csEgFEXi-45" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -981,6 +979,18 @@
         </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-38" value="接收&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Goods Receipt Document&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="-20" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-40" value="發出&lt;br&gt;入閘費收據" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-298.57" y="335" width="106.92" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-42" value="&lt;span&gt;收泊位費&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-292.5" y="250" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-44" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#9933FF;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wtAP92UuIrIzknXgb895-42" target="wtAP92UuIrIzknXgb895-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="310" as="sourcePoint" />
+            <mxPoint x="-210" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
