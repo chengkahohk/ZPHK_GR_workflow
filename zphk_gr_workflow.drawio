@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T02:25:47.986Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pPESsBzPHFFE0WSryI4t" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T02:27:08.749Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bNLYW5xinRAcV5Sl6psb" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1656" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-62" value="核對來貨文件" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-126.87" y="260" width="90" height="50" as="geometry" />
+          <mxGeometry x="-111.87" y="260" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-68" value="SAP ECC" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-680" width="80" height="30" as="geometry" />
@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-36" value="來貨是&lt;br&gt;包裝物料?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-137.84" y="350" width="97.84" height="90" as="geometry" />
+          <mxGeometry x="-115.79" y="335" width="97.84" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4b1m9ikiccHRpkiheYTt-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="4b1m9ikiccHRpkiheYTt-38" target="4b1m9ikiccHRpkiheYTt-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -485,7 +485,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-2" value="核對&lt;br&gt;Airway Bill&lt;br&gt;及&lt;br&gt;PL文件" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-130.93" y="610" width="99.99" height="70" as="geometry" />
+          <mxGeometry x="-124.84" y="607.5" width="99.99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.062;exitY=0.494;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#9933FF;" parent="1" source="mWjOr9oIFl4kfRmIek1W-7" target="mWjOr9oIFl4kfRmIek1W-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -618,7 +618,7 @@
         <mxCell id="10joTakosDb7csEgFEXi-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#9933FF;exitX=0.04;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;" parent="1" source="10joTakosDb7csEgFEXi-2" target="-dL7hMxCjh7UT4JnPMMj-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-150" y="400" />
+              <mxPoint x="-140" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
