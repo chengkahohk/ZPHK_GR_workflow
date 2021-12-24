@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T03:58:15.449Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="I1d0t2gUW6HMaCtnUb1s" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T04:03:38.669Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hHySsxGMzZchHvnQzmin" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="1317" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,16 +477,16 @@
         <mxCell id="xCn-x0LdSq2mbBBxVJVO-4" value="Scan Barcode 紙" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-294.13" y="423.75" width="100" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="10joTakosDb7csEgFEXi-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7F00FF;entryX=0.5;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mWjOr9oIFl4kfRmIek1W-2" target="10joTakosDb7csEgFEXi-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B6LUpJDBMQVNPhAsn9sS-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="mWjOr9oIFl4kfRmIek1W-2" target="B6LUpJDBMQVNPhAsn9sS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;" edge="1" parent="1" target="wtAP92UuIrIzknXgb895-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-64" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-2" value="核對&lt;br&gt;Airway Bill&lt;br&gt;及&lt;br&gt;PL文件" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-119.82999999999998" y="797.5" width="99.99" height="70" as="geometry" />
+          <mxGeometry x="-112.78999999999998" y="720" width="99.99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mWjOr9oIFl4kfRmIek1W-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.062;exitY=0.494;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#9933FF;" parent="1" source="mWjOr9oIFl4kfRmIek1W-7" target="mWjOr9oIFl4kfRmIek1W-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -759,10 +759,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B6LUpJDBMQVNPhAsn9sS-3" value="分派及記錄&lt;br&gt;WG 號碼" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-287.95" y="810" width="89.06" height="45" as="geometry" />
+          <mxGeometry x="-288.66" y="732.5" width="89.06" height="45" as="geometry" />
         </mxCell>
         <mxCell id="B6LUpJDBMQVNPhAsn9sS-5" value="填寫 收貨檢查表&lt;br&gt;Goods Receipt Checklist" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-313.36" y="890" width="140" height="50" as="geometry" />
+          <mxGeometry x="-313.36" y="810" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-1" value="GR 寫字樓" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-286.87000000000006" y="2910" width="100" height="40" as="geometry" />
@@ -1011,6 +1011,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;" edge="1" parent="1" source="wtAP92UuIrIzknXgb895-47" target="mWjOr9oIFl4kfRmIek1W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-66" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wtAP92UuIrIzknXgb895-65">
+          <mxGeometry x="-0.4283" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-47" value="貨櫃&lt;br&gt;封條號碼" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-99.62" y="590" width="84.87" height="90" as="geometry" />
         </mxCell>
@@ -1030,8 +1038,20 @@
         <mxCell id="wtAP92UuIrIzknXgb895-55" value="接收通知" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-601.26" y="535" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-68" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;" edge="1" parent="1" source="wtAP92UuIrIzknXgb895-58" target="wtAP92UuIrIzknXgb895-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-58" value="確認資料" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-746.87" y="615" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-67" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-746.87" y="697.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;elbow=vertical;exitX=0.487;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wtAP92UuIrIzknXgb895-69" target="10joTakosDb7csEgFEXi-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtAP92UuIrIzknXgb895-69" value="爛貨" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-106.88499999999999" y="830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
