@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T01:45:55.624Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fDuXvaDQThi63B8V85ss" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T01:48:04.446Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fVhbDY6ezikBjuIE1Pb-" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="3467" dy="2423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
         <mxCell id="0sDIGlY-5JGgi3CpzUVk-76" value="email" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-607.5" y="-350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0sDIGlY-5JGgi3CpzUVk-83" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0sDIGlY-5JGgi3CpzUVk-80" target="0sDIGlY-5JGgi3CpzUVk-82" edge="1">
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-83" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0sDIGlY-5JGgi3CpzUVk-80" target="0sDIGlY-5JGgi3CpzUVk-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0sDIGlY-5JGgi3CpzUVk-84" value="唔會" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0sDIGlY-5JGgi3CpzUVk-83" vertex="1" connectable="0">
@@ -227,8 +227,8 @@
         <mxCell id="0sDIGlY-5JGgi3CpzUVk-80" value="會否開新&lt;br&gt;Code" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-609.14" y="-230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0sDIGlY-5JGgi3CpzUVk-82" value="收貨後&lt;br&gt;將不會入數" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-611.64" y="-100" width="85" height="50" as="geometry" />
+        <mxCell id="0sDIGlY-5JGgi3CpzUVk-82" value="收貨後&lt;br&gt;實貨上架&lt;br&gt;但系統不會入數" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-628.32" y="-100" width="121.64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-dL7hMxCjh7UT4JnPMMj-66" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0sDIGlY-5JGgi3CpzUVk-86" target="0sDIGlY-5JGgi3CpzUVk-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
