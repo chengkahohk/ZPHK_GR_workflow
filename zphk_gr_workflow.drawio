@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T02:05:20.214Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2Vx7MlRCQ_nqgdrl2AcT" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T02:06:32.443Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Pq4l_CpaGu-Ni2BHtol3" version="16.0.3" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1692" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -874,7 +874,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-47" value="Principal &lt;br&gt;已安裝的&lt;br&gt;指定軟件&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-455.31" y="2430" width="100.63" height="69" as="geometry" />
+          <mxGeometry x="-450" y="2430" width="100.63" height="69" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-54" value="" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9933FF;" parent="1" source="k30M70qhMYFnIltZ5wiN-50" target="k30M70qhMYFnIltZ5wiN-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -896,7 +896,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-53" value="email" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-452.5" y="2522" width="95.32" height="42" as="geometry" />
+          <mxGeometry x="-447.35" y="2522" width="95.32" height="42" as="geometry" />
         </mxCell>
         <mxCell id="k30M70qhMYFnIltZ5wiN-55" value="接收到貨通知" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-621.26" y="2512" width="120" height="60" as="geometry" />
@@ -938,7 +938,7 @@
           <mxGeometry x="-280" y="2342" width="84.14" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-15" value="eZconnrct" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-451.02" y="2345.5" width="87.93" height="43" as="geometry" />
+          <mxGeometry x="-443.96" y="2344.5" width="87.93" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
