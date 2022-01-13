@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T07:49:43.326Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="UOJx6gRyAkMy6ERlunmc" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T07:56:44.269Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="10QRvl8GtOpJZlr-MZrX" version="16.2.6" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
     <mxGraphModel dx="1444" dy="1446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -636,7 +636,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10joTakosDb7csEgFEXi-2" value="來貨是&lt;br&gt;西藥 / OTC?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="10joTakosDb7csEgFEXi-2" value="來貨&lt;br&gt;文件正確" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#314354;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-120.93" y="470" width="108.13" height="92.43" as="geometry" />
         </mxCell>
         <mxCell id="10joTakosDb7csEgFEXi-64" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7F00FF;entryX=0.503;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="10joTakosDb7csEgFEXi-36" target="10joTakosDb7csEgFEXi-63" edge="1">
