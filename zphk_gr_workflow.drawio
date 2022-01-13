@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T07:56:44.269Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="10QRvl8GtOpJZlr-MZrX" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T07:58:14.638Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="tdlYSezFi4NQabCvNvyE" version="16.2.6" type="github">
   <diagram id="s4VGrTQf0zmznQmlyb4M" name="第1頁">
-    <mxGraphModel dx="1444" dy="1446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -921,7 +921,7 @@
           <mxGeometry x="29.999999999999996" y="3470" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-9" value="Putaway" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="3280" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="3467" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-10" value="Shipping" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="3470" width="100" height="40" as="geometry" />
@@ -1055,6 +1055,15 @@
         </mxCell>
         <mxCell id="wtAP92UuIrIzknXgb895-69" value="爛貨" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#314354;rounded=1;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-106.88499999999999" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcsar7bzf8PJX-SPZIS--2" value="QA Team" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcsar7bzf8PJX-SPZIS--3" value="QA Team" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="2910" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcsar7bzf8PJX-SPZIS--4" value="QA Team" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3470" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
