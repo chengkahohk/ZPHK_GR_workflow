@@ -13,8 +13,14 @@
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-70">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-309" y="-57" />
+              <mxPoint x="-241" y="-57" />
+              <mxPoint x="-241" y="-197" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-45">
           <mxGeometry relative="1" as="geometry" />
@@ -25,13 +31,16 @@
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-76" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-79" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-78">
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-79" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Helvetica;fontSize=12;fontColor=default;elbow=vertical;exitX=0.36;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-82" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-85" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-27" value="Me" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,7 +53,7 @@
           <mxGeometry x="-375" y="173" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-33" value="Personal Insterests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-485" y="-117" width="120" height="60" as="geometry" />
+          <mxGeometry x="-605" y="-241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;swimlaneLine=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-29" target="CrhUcrs_FSrIWFr5ItiK-35">
           <mxGeometry relative="1" as="geometry">
@@ -95,7 +104,7 @@
           <mxGeometry x="-215" y="170" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-47" value="I currently live in Bramley, Leeds (LS13), and I have my own car, which makes my commute to work about 20 minutes. &#xa;&#xa;This flexibility allows me to arrive promptly and makes it easy for me to work on-site without any travel constraints" style="rounded=1;whiteSpace=wrap;align=left;fontFamily=Helvetica;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
-          <mxGeometry x="-73" y="155" width="334" height="114" as="geometry" />
+          <mxGeometry x="-73" y="192" width="334" height="114" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-49" target="CrhUcrs_FSrIWFr5ItiK-51">
           <mxGeometry relative="1" as="geometry" />
@@ -127,18 +136,21 @@
           <mxGeometry x="-1146" y="-124" width="418" height="162" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-70" value="Safety Awaness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-197" y="-132" width="102" height="53" as="geometry" />
+          <mxGeometry x="-221" y="-224" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-75" value="License" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-178" y="-50" width="102" height="53" as="geometry" />
+          <mxGeometry x="-207" y="-132" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-78" value="Family" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="-185" width="102" height="53" as="geometry" />
+          <mxGeometry x="-424" y="-294" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-81" value="Why do I hire you?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="-41" width="102" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-84" value="My weakness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-178" y="58" width="102" height="53" as="geometry" />
         </mxCell>
       </root>
