@@ -13,6 +13,18 @@
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-74" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-76" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-27" value="Me" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="58" width="102" height="53" as="geometry" />
         </mxCell>
@@ -22,18 +34,15 @@
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-29" value="Introduction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-328" y="173" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;swimlaneLine=1;entryX=0.063;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-33" value="Personal Insterests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-211" y="-52" width="120" height="60" as="geometry" />
+          <mxGeometry x="-334" y="-76" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;swimlaneLine=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-29" target="CrhUcrs_FSrIWFr5ItiK-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-949" y="-4" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-35" value="Thank you for the opportunity to interview with you today.&#xa;&#xa;I want to share that I have been living in the UK for two and half years and am now committed to working locally rather than in a remote position. &#xa;&#xa;Working in person here would allow me to contribute more directly to the team and the business." style="rounded=1;whiteSpace=wrap;perimeterSpacing=0;align=left;textDirection=ltr;spacingLeft=4;spacingRight=3;" vertex="1" parent="1">
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-35" value="I’ve been living in the UK for two and a half years, and I’m now fully committed to working locally rather than in a remote role. &#xa;&#xa;My last position was focused on supporting a warehouse operation in Hong Kong, but now I’m eager to contribute directly here in the UK." style="rounded=1;whiteSpace=wrap;perimeterSpacing=0;align=left;textDirection=ltr;spacingLeft=4;spacingRight=3;" vertex="1" parent="1">
           <mxGeometry x="-309" y="326" width="413" height="135" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;swimlaneLine=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="CrhUcrs_FSrIWFr5ItiK-37" source="CrhUcrs_FSrIWFr5ItiK-27">
@@ -42,17 +51,16 @@
             <mxPoint x="-442" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-37" target="CrhUcrs_FSrIWFr5ItiK-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-67" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-37" target="CrhUcrs_FSrIWFr5ItiK-66">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-37" target="CrhUcrs_FSrIWFr5ItiK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-561.4193548387098" y="275" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-37" value="Previous&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Job&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-574" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-38" value="My last role was a remote position where I managed warehouse operations in Hong Kong using the SAP ERP system. &#xa;&#xa;It involved ensuring smooth workflows, troubleshooting, and overseeing day-to-day processes, all from a distance. &#xa;&#xa;While I’m proud of how I adapted to support the team remotely, I’m now excited to bring my skills to an in-person role here in the UK" style="rounded=1;whiteSpace=wrap;spacingLeft=4;align=left;spacingRight=4;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-1055" y="302" width="369" height="171" as="geometry" />
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-38" value="My last role was a remote position where I managed warehouse operations in Hong Kong using the SAP ERP system. &#xa;&#xa;It involved ensuring smooth workflows, troubleshooting, and overseeing day-to-day processes, all from a distance. &#xa;&#xa;While I’m proud of how I adapted to support the team remotely, I’m now excited to bring my skills to an in-person role here in the UK" style="rounded=1;whiteSpace=wrap;spacingLeft=4;align=left;spacingRight=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-711" y="281" width="369" height="171" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-56" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-41" target="CrhUcrs_FSrIWFr5ItiK-55">
           <mxGeometry relative="1" as="geometry" />
@@ -63,8 +71,10 @@
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-41" target="CrhUcrs_FSrIWFr5ItiK-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-41" target="CrhUcrs_FSrIWFr5ItiK-60">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-41" target="CrhUcrs_FSrIWFr5ItiK-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-588.394366197183" y="-126" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-41" value="Experienced" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-36" width="112" height="52" as="geometry" />
@@ -73,10 +83,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-45" value="Location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-208" y="63" width="102" height="53" as="geometry" />
+          <mxGeometry x="-193" y="140" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-47" value="I currently live in Bramley, Leeds (LS13), and I have my own car, which makes my commute to work about 20 minutes. &#xa;&#xa;This flexibility allows me to arrive promptly and makes it easy for me to work on-site without any travel constraints" style="rounded=1;whiteSpace=wrap;align=left;fontFamily=Helvetica;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="54" width="334" height="114" as="geometry" />
+          <mxGeometry x="-73" y="155" width="334" height="114" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-49" target="CrhUcrs_FSrIWFr5ItiK-51">
           <mxGeometry relative="1" as="geometry" />
@@ -85,30 +95,36 @@
           <mxGeometry x="-561" y="90" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-51" value="I’m currently available to start immediately, so I’d be ready to step into the role and begin contributing right away." style="rounded=1;whiteSpace=wrap;align=left;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
-          <mxGeometry x="-1045" y="138" width="260" height="92" as="geometry" />
+          <mxGeometry x="-988" y="254" width="260" height="92" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-53" value="I also have over ten years of experience operating a counterbalance forklift for loading and unloading, both outdoors and in warehouse settings. &#xa;&#xa;This hands-on experience has made me very confident with safety protocols, precision, and efficiency in forklift operations." style="rounded=1;whiteSpace=wrap;spacingLeft=4;spacingRight=4;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1014" y="-39" width="282.5" height="144" as="geometry" />
+          <mxGeometry x="-1071" y="77" width="282.5" height="144" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-55" value="Forklift" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-679" y="8" width="112" height="52" as="geometry" />
+          <mxGeometry x="-692" y="48" width="112" height="52" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-55" target="CrhUcrs_FSrIWFr5ItiK-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-632" y="-83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-60" value="Warehouse Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-679" y="-178" width="112" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-63" target="CrhUcrs_FSrIWFr5ItiK-38">
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-69" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-66" target="CrhUcrs_FSrIWFr5ItiK-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-63" value="Remote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-728" y="233" width="120" height="60" as="geometry" />
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-66" value="Warehouse Management" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="-679" y="-73" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-66" value="Previous&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Job&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
-          <mxGeometry x="-574" y="322" width="120" height="60" as="geometry" />
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-68" value="I’ve been working in warehouse management for over twenty years, so I bring a strong foundation in core areas like inbound and outbound processes, replenishment, and space utilization. &#xa;&#xa;My experience has given me the skills to optimize workflows, ensure efficient space usage, and keep operations running smoothly. &#xa;&#xa;I’m confident this background allows me to contribute effectively from day one." style="rounded=1;whiteSpace=wrap;spacingLeft=4;spacingRight=4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1146" y="-161" width="418" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-70" value="Safety Awaness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="-27" width="102" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-75" value="License" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-178" y="58" width="102" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.349;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
