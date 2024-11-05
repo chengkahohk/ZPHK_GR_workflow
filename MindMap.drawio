@@ -49,7 +49,7 @@
           <mxGeometry x="-375" y="173" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-33" value="Personal Insterests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="43" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4" y="77" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;swimlaneLine=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-29" target="CrhUcrs_FSrIWFr5ItiK-35">
           <mxGeometry relative="1" as="geometry">
@@ -137,7 +137,7 @@
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-75" value="License" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-707" y="48" width="102" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="CrhUcrs_FSrIWFr5ItiK-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-33">
+        <mxCell id="CrhUcrs_FSrIWFr5ItiK-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CrhUcrs_FSrIWFr5ItiK-27" target="CrhUcrs_FSrIWFr5ItiK-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CrhUcrs_FSrIWFr5ItiK-78" value="Family" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
